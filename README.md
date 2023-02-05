@@ -1,2 +1,2 @@
-# Vz-Printhead-MGN12H-main
-Vz-Printhead-MGN12H
+# Vz-Printhead-Printed-MGN12H-main
+Vz-Printhead-Printed-MGN12H
