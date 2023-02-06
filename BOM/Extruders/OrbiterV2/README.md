@@ -8,4 +8,5 @@
 
 
 
+Credits, from the original version and Readme, go to Simon Vez
 
