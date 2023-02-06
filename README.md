@@ -1,11 +1,16 @@
 # Vz-Printhead-Printed-MGN12H-main
-Vz-Printhead-Printed-MGN12H
+Vz-Printhead-Printed-MGN12H Mood
 
 BETA ! UNTESTED ! We need help from the community to test and report feedback. Use at your own risk
-The Vz-Printhead Printed Version
+The Vz-Printhead Printed MGN12H Version
 
 The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN12H on X Axis. It was designed to be compatible with almost all hotends, and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
 
+Note, it may be necessary to print extra parts depending on the hotend to use, the extra parts in the STL folders are for Goliath and Rapido, also the new CPAP duct to print as well.
+
+Spacers and so on, can be edited in cad and exported for printing, if any user can't edit I'll be happy to help edit and export the essentials.
+
+you can find me on the Facebook Group as Eduardo Sousa or on discord @EduardoSousa#7556
 
 Credits, from the original version and Readme, go to Simon Vez
 
