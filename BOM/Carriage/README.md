@@ -8,4 +8,4 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/37383368/212997210-5905e024-bb4a-44e8-83ac-35ac9521dc9e.png"><img width="500" alt="image" src="https://user-images.githubusercontent.com/37383368/212998007-593eeea6-7b34-470f-88f7-ad33463246ff.png">
 
 
-
+Credits, from the original version and Readme, go to Simon Vez
