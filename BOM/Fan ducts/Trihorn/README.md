@@ -1,5 +1,7 @@
 Trihorn fan duct can be use with CPAP or 5015. It is used for shorter hotend below 65mm long total. Depending on the lenght of your hotend, you may or may not need to use the brace spacer tube. If the fan duct sits at its highest position, it can be brace without spacer just using 2xM3 12mm bolts
 
+Credits, from the original version and Readme, go to Simon Vez
+
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------           | -----    | -----	|
 | 2      | M3 18mm button head or socket head Bolts| 12mm or longer depending on the lenght of the hotend             | bottom plate brace |   |
