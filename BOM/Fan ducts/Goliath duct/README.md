@@ -1,8 +1,6 @@
 Goliath fan duct can be used with CPAP or 5015 fan, and other hotends long enough like Mosquito Magnum+ as long as they are at least 65mm long total.
 The duct is braced to the under plate using printed spacer. Default lenght for Goliath is 15mm but can be scaled in your Slicer in Z to the desired lenght according to the hotend used
 
-Credits, from the original version and Readme, go to Simon Vez
-
 | Quantity | Part                         | Image             | comment  | Links  |
 | ------ | ----                           | -------           | -----    | -----	|
 | 2      | M3 30mm button head or socket head Bolts|              | bottom plate brace |   |

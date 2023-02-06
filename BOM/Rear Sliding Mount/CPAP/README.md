@@ -10,7 +10,7 @@
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/37383368/213060302-bde74cd1-9011-477d-9c16-02ec5661a213.png">
  
 
-Credits, from the original version and Readme, go to Simon Vez
+
 
 
 
