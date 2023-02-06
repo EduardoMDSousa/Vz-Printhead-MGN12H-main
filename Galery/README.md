@@ -1,5 +1,7 @@
 Galery
 
+Credits, from the original version and Readme, go to Simon Vez
+
 <img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-04-36CustomizedView24815512553.png">
 <img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-05-56PM-000_CustomizedView32516733739.png">
 <img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-37-22PM.png">
