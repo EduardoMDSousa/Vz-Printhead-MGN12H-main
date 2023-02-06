@@ -7,5 +7,5 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/37383368/213017900-6b69fce5-0965-4148-8831-199f3a35e3fa.png"><img width="500" alt="image" src="https://user-images.githubusercontent.com/37383368/213019563-88e85fbc-a994-451e-ab8d-9397dd96d891.png">
 
 
-
+Credits, from the original version and Readme, go to Simon Vez
 
