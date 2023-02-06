@@ -10,6 +10,8 @@ Note, it may be necessary to print extra parts depending on the hotend to use, t
 
 Spacers and so on, can be edited in cad and exported for printing, if any user can't edit I'll be happy to help edit and export the essentials.
 
+in the extra parts folder, the head doc for Klicky prob and NRG versions will also be available
+
 you can find me on the Facebook Group as Eduardo Sousa or on discord @EduardoSousa#7556
 
 Credits, from the original version and Readme, go to Simon Vez
