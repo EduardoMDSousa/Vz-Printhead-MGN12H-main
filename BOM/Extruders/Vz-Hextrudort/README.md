@@ -6,6 +6,7 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/37383368/213021635-ee1b2cf6-2f93-47d5-8c81-ca82a6504464.png">
 
 
+Credits, from the original version and Readme, go to Simon Vez
 
 
 
