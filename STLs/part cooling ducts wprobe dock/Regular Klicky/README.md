@@ -17,17 +17,17 @@ Print Orientation:
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_7.jpg">
 
 How to assemble
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/1.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/2.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/3.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/4.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/5.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/6.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/7.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/8.jpg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/1.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/2.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/3.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/4.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/5.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/6.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/7.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/8.jpeg">
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/9.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/10.jpg">
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/11.jpg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/10.jpeg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/11.jpeg">
 
 Added vertion for soldering magnets
 
