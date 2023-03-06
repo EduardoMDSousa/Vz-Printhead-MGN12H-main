@@ -17,7 +17,7 @@ Print Orientation:
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_7.jpg">
 
 How to assemble
-<img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/1.jpg">
+<img width="800" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/1.jpg">
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/2.jpg">
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/3.jpg">
 <img width="800" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/how-to/4.jpg">
