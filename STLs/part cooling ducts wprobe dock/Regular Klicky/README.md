@@ -9,9 +9,9 @@ Credits, from the original ductversion, go to Simon Vez
 
 <img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_1.jpg"> <img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_2.jpg">
 Print Orientation:
-<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_3.jpg"> <img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_4.jpg">
-<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_5.jpg"> <img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_6.jpg">
-<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_7.jpg">
+<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_3.jpg"> 
+
+<img width="300" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_4.jpg"><img width="300" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_5.jpg"><img width="300" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_6.jpg"><img width="300" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed-MGN12H/Galery/Klicky-regular/Klicky_TrihornFanDuctv2_7.jpg">
 
 How to assemble
 
@@ -21,7 +21,6 @@ How to assemble
 <img width="300" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/7.jpg"> <img width="300" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/8.jpg">
 <img width="300" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/9.jpg"> <img width="300" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/10.jpg">
 <img width="300" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Klicky-regular/how-to/11.jpg">
-
 
 Added vertion for soldering magnets
 
