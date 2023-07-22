@@ -2,7 +2,7 @@
 Vz-Printhead-Printed-MGN12H Mood
 
 ESTED ! We need help from the community to test and report feedback. Use at your own risk
-The Vz-Printhead Printed MGN12H Version
+The Vz-Printhead Printed MGN12H, Vz-Printhead-Printed_Standoffs-MGN12, Vz-Printhead-Printed_MGN12_MGN9H for orbiter 1.5 Versions
 
 All moods and final vertions on https://github.com/VzBoT3D/VzBoT-UserMods/tree/master/EduardoMDSousa
 
